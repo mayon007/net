@@ -16,6 +16,15 @@ int fun()
 	return i;
 	
 }
+// pc git test
+int fun2()
+{
+	int i,j;
+
+	printf("fun2: pc git test \n");
+	
+	return 0;
+}
 int main()
 {
 	//这是一个测试用例
