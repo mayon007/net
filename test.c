@@ -22,6 +22,7 @@ int fun2()
 	int i,j;
 
 	printf("fun2: pc git test \n");
+    printf("fun2: mac git test \n");
 	
 	return 0;
 }
